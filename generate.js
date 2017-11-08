@@ -1,3 +1,8 @@
+/*
+    Adapted from the example found here: https://github.com/Jam3/msdf-bmfont
+    The MIT License (MIT) Copyright (c) 2016 Jam3
+*/
+
 const generateBMFont = require('msdf-bmfont');
 const fs = require('fs');
 
